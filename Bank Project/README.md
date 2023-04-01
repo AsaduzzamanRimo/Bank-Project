@@ -1,4 +1,4 @@
-# Guru99BankProject
+# BankProject
 
 This sample repository has the automation tests written in Java using Selenium Webdriver and TestNG.
 Page Object model has been used to write the tests.
